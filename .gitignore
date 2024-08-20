@@ -1,0 +1,7 @@
+/.conda
+/chromadb
+/data
+/embeddings
+/pg_chromadb
+/rag_evaluator_pack
+.env
